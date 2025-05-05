@@ -1,0 +1,10 @@
+flask==2.0.1
+joblib==1.0.1
+scikit-learn==0.24.2
+python-magic==0.4.24
+werkzeug==2.0.1
+numpy==1.21.0
+h5py==3.3.0
+pefile==2023.2.7
+virustotal-api==1.1.11
+python-dotenv==0.19.0 
